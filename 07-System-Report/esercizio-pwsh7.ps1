@@ -1,4 +1,4 @@
-
+# Esercizio originale
 
 function FuncGetSystemSummary {
     $cpu = (Get-CimInstance CIM_Processor).Name

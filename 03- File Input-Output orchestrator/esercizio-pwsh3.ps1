@@ -1,3 +1,5 @@
+# Esercizio originale
+
 New-Item 
     -Path "C:\temp" 
     -Name "text.txt" 

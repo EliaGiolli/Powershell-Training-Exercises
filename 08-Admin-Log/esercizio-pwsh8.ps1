@@ -1,3 +1,5 @@
+# Esercizio originale
+
 Get-WinEvent -FilterHashtable @{
     LogName = 'System'
     Level   = 1,2

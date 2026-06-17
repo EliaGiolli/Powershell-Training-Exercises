@@ -1,3 +1,4 @@
+# Esercizio originale
 $report = Get-PSDrive -PSProvider FileSystem | ForEach-Object {
         [PSCustomObject]@{
             Name = $_.Name
